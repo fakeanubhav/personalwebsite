@@ -1,2 +1,2 @@
 # Personal Website
-Personal website using HTML, CSS and Bootstrap
+Personal website using HTML and CSS
